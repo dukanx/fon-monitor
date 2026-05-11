@@ -7,3 +7,5 @@ Skini **[ntfy](https://ntfy.sh/)** app i pretplati se na topic:
 ```
 fon-monitor-2022
 ```
+
+Pregled se vrši na svakih 15 minuta.
